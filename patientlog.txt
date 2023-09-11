@@ -1,4 +1,3 @@
-3
 23,23,23,23,23,23,Patient_1_testing_Observer1
 23,23,23,23,23,23,Patient_2_training
 23,23,23,23,23,23,Patient_1_testing_Observer2
