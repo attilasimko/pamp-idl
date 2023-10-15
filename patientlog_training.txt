@@ -1,7 +1,6 @@
 19,19,19,19,19,19,training_data/ProstateX-0057
 19,19,19,19,19,19,training_data/ProstateX-0037
 19,19,19,19,19,19,training_data/ProstateX-0236
-19,19,19,19,19,19,training_data/ProstateX-0333
 19,19,19,19,19,19,training_data/ProstateX-0031
 19,19,19,19,19,19,training_data/ProstateX-0075
 19,19,19,19,19,19,training_data/ProstateX-0239
@@ -16,7 +15,6 @@
 19,19,19,19,19,19,training_data/ProstateX-0035
 19,19,19,19,19,19,training_data/ProstateX-0323
 19,19,19,19,19,19,training_data/ProstateX-0091
-19,19,19,19,19,19,training_data/ProstateX-0195
 19,19,19,19,19,19,training_data/ProstateX-0148
 19,19,19,19,19,19,training_data/ProstateX-0080
 19,19,19,19,19,19,training_data/ProstateX-0204
@@ -32,7 +30,6 @@
 19,19,19,19,19,19,training_data/ProstateX-0073
 19,19,19,19,19,19,training_data/ProstateX-0330
 19,19,19,19,19,19,training_data/ProstateX-0010
-19,19,19,19,19,19,training_data/ProstateX-0182
 19,19,19,19,19,19,training_data/ProstateX-0049
 19,19,19,19,19,19,training_data/ProstateX-0027
 19,19,19,19,19,19,training_data/ProstateX-0253
