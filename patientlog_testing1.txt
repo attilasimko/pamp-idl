@@ -1,7 +1,4 @@
 19,19,19,19,19,19,testing_reviewer1/ProstateX-0320
 19,19,19,19,19,19,testing_reviewer1/ProstateX-0252
-19,19,19,19,19,19,testing_reviewer1/ProstateX-0160
 19,19,19,19,19,19,testing_reviewer1/ProstateX-0322
 19,19,19,19,19,19,testing_reviewer1/ProstateX-0154
-19,19,19,19,19,19,testing_reviewer1/ProstateX-0074
-19,19,19,19,19,19,testing_reviewer1/ProstateX-0039
