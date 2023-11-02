@@ -1,4 +1,0 @@
-19,19,19,19,19,19,training_data/ProstateX-0185
-19,19,19,19,19,19,training_data/ProstateX-0043
-19,19,19,19,19,19,training_data/ProstateX-0326
-19,19,19,19,19,19,training_data/ProstateX-0125
